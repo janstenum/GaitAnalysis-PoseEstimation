@@ -1,0 +1,5 @@
+Example videos from dataset described in Kwolew et al. (2019) and made available at http://bytom.pja.edu.pl/projekty/hm-gpjatk/.
+
+Refer to GPJATK Dataset Release Agreement for copyrights and permissions.
+
+Kwolek, B, Michalczuk A, Krzeszowski, T, Switonski, A, Josinski, H and Wojciechowski, K. (2019). Calibrated and synchronized multi-view video and motion capture dataset for evaluation of gait recognition. Multimedia Tools and Applications 78, 32437-32465.
